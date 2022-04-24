@@ -1,5 +1,5 @@
 # android-project-flutter-assignment
-#
+
 ### 1) What class is used to implement the controller pattern in this library? What features does it allow the developer to control?
 The snappingSheetController widget class used to implement the controller pattern in the library, it controls snap positions of 
 the snapping sheet and it has snapPositions property which can hold the snap positions of the sheet in pixels or factor and it
